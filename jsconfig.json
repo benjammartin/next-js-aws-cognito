@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/auth/*": ["modules/auth/*"],
+      "@/layout/*": ["modules/layout/*"],
+      "@/commons/*": ["modules/commons/*"]
+    }
+  }
+}
