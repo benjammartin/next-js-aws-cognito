@@ -16,3 +16,4 @@ amplifytools.xcconfig
 .vercel
 .env
 .DS_STORE
+.next
